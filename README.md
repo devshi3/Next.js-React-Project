@@ -24,7 +24,7 @@ This is a **Next.js** project built with **React** and styled using **Tailwind C
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo
+   cd Next.js-React-Project
    ```
 3. Install dependencies:
    ```sh
