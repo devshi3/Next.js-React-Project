@@ -20,7 +20,7 @@ This is a **Next.js** project built with **React** and styled using **Tailwind C
 ## 📦 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone (https://github.com/devshi3/Next.js-React-Project.git
    ```
 2. Navigate to the project directory:
    ```sh
